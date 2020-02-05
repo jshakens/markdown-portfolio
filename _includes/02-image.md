@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Image of a T-Bone Steak]
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F91%2FT-bone-raw-MCB.jpg%2F170px-T-bone-raw-MCB.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FT-bone_steak&tbnid=FJT1dHHpayz6JM&vet=12ahUKEwj77ZPG97rnAhWOGTQIHTJ1BAwQMygGegUIARDJAg..i&docid=8lT2n37ryM-z7M&w=170&h=185&q=t%20bone%20steak&ved=2ahUKEwj77ZPG97rnAhWOGTQIHTJ1BAwQMygGegUIARDJAg
