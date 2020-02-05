@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+[]steak
+[]ribs
+[]prime rib
+[]bacon
+[]fish
+[]shrimp
