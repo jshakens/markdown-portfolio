@@ -1,6 +1,6 @@
--steak
--ribs
--prime rib
--bacon
--fish
--shrimp
+- steak
+- ribs
+- prime rib
+- bacon
+- fish
+- shrimp
